@@ -1,6 +1,5 @@
 # Summary
 
-[🔍 Data Contract Search](./wiki-search.html)
 
 # Data Contracts
 
