@@ -1,0 +1,26 @@
+[book]
+title = "LifeChurch Data Contract Wiki"
+authors = ["Data Insights Team"]
+language = "en"
+
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = ""
+additional-css = ["theme/custom.css"]
+
+
+[output.html.search]
+enable = true
+limit-results = 30
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 1
+boost-paragraph = 1
+expand = true
+heading-split-level = 3
